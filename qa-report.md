@@ -64,6 +64,11 @@
 - **Resultado obtenido**: [Anotar aquí]
 - **Evidencia**: ![Cálculos carrito](qa-images/cart-totals.png)
 
+-**Caso**: Compra del total del carrito
+-**Resultado esperado**: La compra se puede ejecutar rellenando el formulario.
+-**Resultado obtenido**: ✅ La compra despues de llenar el formulario es finalizado y te redirige a la pagina como pedido confirmado y el numero de pedido.
+-**Evidencia**: ![Compra ejecutada](qa-images/Shooping_Car.png)
+
 ### 4. Proceso de Checkout (checkout.php)
 #### 4.1 Validación y Procesamiento de Orden
 - **Caso**: Acceso a checkout con carrito vacío
